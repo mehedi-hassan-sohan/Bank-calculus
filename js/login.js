@@ -6,7 +6,7 @@ document.getElementById('btn-submit').addEventListener('click',function(){
      console.log(email,password) 
 
      if(email ==="sohan@gmail.com" && password==="sohan004"){
-      window.location.href= 'http://127.0.0.1:5500/js/bank.html'
+       window.location.href= 'http://127.0.0.1:5500/js/bank.html'
 
 
       
